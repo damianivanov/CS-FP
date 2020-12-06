@@ -23,7 +23,7 @@
 (automorphic? 890625) ; -> #t
 (automorphic? 625) ; -> #t
 
-(automorphic? 624) ; -> #f
-(automorphic? 36) ; -> #f
-(automorphic? 7) ;->#f
+;(automorphic? 624) ; -> #f
+;(automorphic? 36) ; -> #f
+;(automorphic? 7) ;->#f
 
